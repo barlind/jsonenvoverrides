@@ -1,0 +1,8 @@
+{
+  "Nested": {
+    "List": [
+      { "Name": "x", "Value": 1 },
+      { "Name": "y", "Value": 2 }
+    ]
+  }
+}
